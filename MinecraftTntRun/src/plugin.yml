@@ -1,0 +1,11 @@
+name: MinecraftTntRun
+version: 1.0
+author: henrylang
+main: io.github.henrylang.minecrafttntrun.Plugin
+commands:
+  tntrunstart:
+    description: Enables MinecraftTntRun.
+    usage: /tntrunstart
+  tntrunstop:
+    description: Disables MinecraftTntRun.
+    usage: /tntrunstop
